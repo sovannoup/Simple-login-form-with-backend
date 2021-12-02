@@ -1,0 +1,35 @@
+/**/
+body {
+	width: 100%;
+	font-size: 16px;
+	font-family: Verdana;
+	background-color: #caf0f8;
+}
+.container {
+	width: 100%;
+	height: 100%;
+	max-width: 1300px;
+	margin: 0 auto;
+	padding: 0 50px;
+}
+:root {
+	-background: #e0e4eb;
+	-white: #e0e4eb;
+	-deepdark: #1e1e1e;
+}
+ul,
+li {
+	list-style: none;
+}
+a {
+	text-decoration: none;
+}
+img,
+svg {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+button {
+	outline: none;
+}

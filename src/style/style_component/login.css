@@ -1,0 +1,21 @@
+.form{
+    max-width: 350px;
+    height: 500px;
+    margin: 0 auto;
+    margin-top: 100px;
+    border-radius: 10px;
+    /* box-shadow: rgba(3, 102, 214, 0.3) 0px 0px 0px 3px; */
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+    border: 2px solid rgba(3, 102, 214, 0.3);
+    background-color: #fcfcfc;
+}
+.header{
+    text-align: center;
+}
+.headerTxt{
+    font-style: italic;
+    padding: 20px 0;
+    font-size: 20px;
+    font-weight: 600;
+    color: #03045e;
+}
